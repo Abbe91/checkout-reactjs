@@ -1,3 +1,11 @@
+A design system for enterprise-level products. Create an efficient and enjoyable work experience.
+
+https://ant.design/components/menu/
+https://ant.design/docs/react/introduce
+
+$ npm install antd
+$ yarn add antd
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
