@@ -1,8 +1,7 @@
 import React from 'react';
 import './App.css';
 import { Layout, Menu } from 'antd';
-import { MenuItem } from 'rc-menu';
-import { AppstoreOutlined, MailOutlined } from '@ant-design/icons';
+import { AppstoreOutlined } from '@ant-design/icons';
 // I Will use mailOutLined on the future to make contact us page
 
 const { SubMenu } = Menu;
@@ -16,7 +15,7 @@ function sider(){
        mode="inline"
        >
        <Menu.Item key="Dashboard">
-       Dashboard
+       Menu
        </Menu.Item>
            <SubMenu
             key="sub1"
